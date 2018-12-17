@@ -1,0 +1,12 @@
+{
+    "src": {
+        "sass" : "./src/sass/**/*.scss",
+        "js" : "./src/js/*.js",
+        "vendor" : []
+    },
+    "dist": {
+        "css" : "./dist/css",
+        "js" : "./dist/js",
+        "vendor" : "./dist/js/vendor"
+    }
+}
